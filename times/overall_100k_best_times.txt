@@ -1,0 +1,6 @@
+aes-crypto_decrypt      0.000015898
+aes-crypto_encrypt      0.000026429
+self-aes_decrypt        0.028230588
+self-aes_encrypt        0.026525143
+self-saes_decrypt       0.030100797
+self-saes_encrypt       0.028226068
